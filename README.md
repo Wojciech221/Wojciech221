@@ -8,7 +8,8 @@
 ### 💻 About Me:
 - 🔭 I'm currently working on nothing
 - 📫 How to reach me: ...
-
+- 🌱 I'm currently learning JavaScript
+  
 ---
 
 ### 🛠️ Technologies & Tools:
