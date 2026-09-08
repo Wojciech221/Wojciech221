@@ -13,12 +13,7 @@
 
 ### 🛠️ Technologies & Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="My Skills" />
 </div>
 
 ---
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
